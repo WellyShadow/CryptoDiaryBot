@@ -1,0 +1,2 @@
+------------- <sqlite3.Cursor object at 0x000001C99D450AB0>
+ERROR:asyncio:Task exception was never retrieved
